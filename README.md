@@ -60,8 +60,8 @@ pip install pandas numpy matplotlib scikit-learn openpyxl
    - `feature_importance.csv`
 
 ## Author
-AmirAli Hosseini Abrishami - [GitHub Profile](https://https://github.com/Amir0234-afk)
+AmirAli Hosseini Abrishami - [GitHub Profile](https://github.com/Amir0234-afk)
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository). file for details.
 
